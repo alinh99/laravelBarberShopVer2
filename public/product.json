@@ -1,0 +1,77 @@
+{
+    "items": [{
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "Volcanic Clay",
+                "price": 299.0,
+                "image": { "fields": { "file": { "url": "/assets/img/sap1.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "title": "Osis+",
+                "price": 350.0,
+                "image": { "fields": { "file": { "url": "/assets/img/sap2.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "3" },
+            "fields": {
+                "title": "Hanz De Fuko Claymation",
+                "price": 400.0,
+                "image": { "fields": { "file": { "url": "/assets/img/sap3.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "4" },
+            "fields": {
+                "title": "Loreal",
+                "price": 320.0,
+                "image": { "fields": { "file": { "url": "/assets/img/sap4.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "title": "Kevin Murphy",
+                "price": 350.0,
+                "image": { "fields": { "file": { "url": "/assets/img/sap5.png" } } }
+            }
+        },
+        {
+            "sys": { "id": "6" },
+            "fields": {
+                "title": "Glanzen Clay Wax",
+                "price": 370.0,
+                "image": { "fields": { "file": { "url": "/assets/img/sap6.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "7" },
+            "fields": {
+                "title": "Cavalier",
+                "price": 280.0,
+                "image": { "fields": { "file": { "url": "/assets/img/sap7.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "8" },
+            "fields": {
+                "title": "Reuzel",
+                "price": 290.0,
+                "image": { "fields": { "file": { "url": "/assets/img/sap8.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "9" },
+            "fields": {
+                "title": "Romano Wax",
+                "price": 480.0,
+                "image": { "fields": { "file": { "url": "/assets/img/sap9.jpg" } } }
+            }
+        }
+    ]
+}
